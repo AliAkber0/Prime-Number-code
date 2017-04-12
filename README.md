@@ -1,4 +1,3 @@
-// Prime Number code
 #include<iostream>
 using namespace std;
 int print(int start, int last)
